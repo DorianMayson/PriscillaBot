@@ -6,7 +6,7 @@ import youtube_dl
 import os
 import random
 
-TOKEN = 'NzQ3Mzg0MTg0NTgyMTc2ODU4.X0OFww.GkFjN-uwc4QSVURY7BW3lL_tezo'
+TOKEN = ''
 BOT_PREFIX = '.'
 
 bot = commands.Bot(command_prefix=BOT_PREFIX)
